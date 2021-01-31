@@ -1,0 +1,24 @@
+postgres://
+drjfzqbthpuktn
+:
+018546bd818c73cc55c866484a63ec02ddb62afe01df21c84931c1c235dca9a6
+
+@
+
+ec2-52-48-65-240.eu-west-1.compute.amazonaws.com
+
+:
+
+5432
+/
+d97oh7c7m9kua4
+
+DATABASE_USERNAME= drjfzqbthpuktn
+DATABASE_PASSWORD=018546bd818c73cc55c866484a63ec02ddb62afe01df21c84931c1c235dca9a6
+
+DATABASE_HOST=ec2-52-48-65-240.eu-west-1.compute.amazonaws.com
+
+DATABASE_PORT=5432
+
+DATABASE_NAME=d97oh7c7m9kua4
+
